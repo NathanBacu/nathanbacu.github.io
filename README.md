@@ -19,3 +19,5 @@ Adaptabilidad: Web Responsive mediante Media Queries para una visualización cor
 /styles/: Archivos CSS.
 
 /img/: Recursos visuales.
+
+/docs/: Recursos descargables.
